@@ -6,7 +6,6 @@ const Sapaan = () => {
                 <h1 className="font-montserrat-800 text-8xl">Hei? Mau ngobrol ngobrol dulu?</h1>
             </div>
             <div className="">
-                <img src="https://placeholder.com/600x400" />
             </div>
         </div>
     )
