@@ -4,9 +4,9 @@ import 'aos/dist/aos.css';
 const Postingan = () => {
     return (
         <div>
-            <div className="container max-w-screen-xl mx-auto grid grid-cols-1 gap-4 md:grid-cols-4 p-5">
+            <div className="container max-w-screen-xl mx-auto grid grid-cols-1 gap-4 md:grid-cols-4">
                 <div className="md:col-span-2">
-                    <p className="text-5xl font-bebas text-gray-900 dark:text-white">INSTAGRAM DEPARTMENT OF INFORMATICS SULTAN AGENG TIRTAYASA<br /></p>
+                    <p className="text-5xl font-bebas text-gray-900 dark:text-white">INSTAGRAM JURUSAN INFORMATIKA SULTAN AGENG TIRTAYASA<br /></p>
                     <div className="mt-5 flex flex-row">
                         <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns: xlink="http://www.w3.org/1999/xlink">
                             <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -22,12 +22,12 @@ const Postingan = () => {
                         <a href='https://www.instagram.com/informatika_untirta/' className="pl-2">instagram</a>
                     </div>
                 </div>
-                <div className=" lg:text-lg mx-auto text-sm">
-                    Starting from determining what content to create, looking for references, and up to content creation using available tools,
-                    all were created to produce useful and interesting content for student citizens, especially Unitrta Informatics.
+                <div className=" text-lg mx-auto">
+                    Dimulai dari menetapkan konten apa yang akan dibuat, mencari referensi, dan sampai pembuatan konten menggunakan tools yang tersedia,
+                    semua diciptakan untuk menghasilkan konten yang bermanfaat dan menarik untuk warga mahasiswa khususnya Informatika Unitrta
                 </div>
-                <div className="text_lg text-sm lg:text-lg md:mx-auto">
-                    Tools used :
+                <div className="text_lg mx-auto">
+                    Tools yang digunakan :
                     <ul className="list-none">
                         <li>
                             Adobe photoshop
@@ -38,13 +38,13 @@ const Postingan = () => {
                     </ul>
                 </div>
             </div>
-            <div className='m-5 h-96 p-5 bg-cover rounded-2xl overflow-auto max-w-screen-xl mx-auto' >
+            <div className='m-5 h-96  bg-cover rounded-2xl overflow-auto max-w-screen-xl mx-auto' >
                 <div className='w-full h-full rounded-2xl justify-center scrollba overflow-y-scroll'>
                     <img className='mx-auto content-center' src='./src/assets/Postinganig.png' />
                 </div>
             </div>
             <div>
-
+                
             </div>
         </div>
     )
