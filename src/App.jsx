@@ -6,7 +6,7 @@ import About from "./Pages/About";
 
 const App = () => {
   return (
-    <>
+    <div>
     <Router>
       <Routes>
         <Route path="/" element={<Home></Home>}/>
@@ -14,7 +14,7 @@ const App = () => {
         <Route path="/About" element={<About></About>}/>
       </Routes>
     </Router>
-    </>
+    </div>
   );
 }
 
