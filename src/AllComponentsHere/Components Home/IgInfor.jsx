@@ -6,7 +6,7 @@ const Postingan = () => {
         <div>
             <div className="container max-w-screen-xl mx-auto grid grid-cols-1 gap-4 md:grid-cols-4">
                 <div className="md:col-span-2">
-                    <p className="text-5xl font-bebas text-gray-900 dark:text-white">INSTAGRAM JURUSAN INFORMATIKA SULTAN AGENG TIRTAYASA<br /></p>
+                    <p className="text-5xl font-bebas text-gray-900 dark:text-white">INSTAGRAM DEPARTMENT OF INFORMATICS SULTAN AGENG TIRTAYASA<br /></p>
                     <div className="mt-5 flex flex-row">
                         <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns: xlink="http://www.w3.org/1999/xlink">
                             <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -23,11 +23,11 @@ const Postingan = () => {
                     </div>
                 </div>
                 <div className=" text-lg mx-auto">
-                    Dimulai dari menetapkan konten apa yang akan dibuat, mencari referensi, dan sampai pembuatan konten menggunakan tools yang tersedia,
-                    semua diciptakan untuk menghasilkan konten yang bermanfaat dan menarik untuk warga mahasiswa khususnya Informatika Unitrta
+                    Starting from determining what content to create, looking for references, and up to content creation using available tools,
+                    all were created to produce useful and interesting content for student citizens, especially Unitrta Informatics.
                 </div>
                 <div className="text_lg mx-auto">
-                    Tools yang digunakan :
+                    Tools used :
                     <ul className="list-none">
                         <li>
                             Adobe photoshop
