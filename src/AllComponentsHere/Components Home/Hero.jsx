@@ -1,7 +1,7 @@
 const Hero = () => {
 
     return (
-        <div className=" max-w-screen-xl mx-auto grid grid-cols-1 p-5 md:grid-cols-2 mt-60 p-5">
+        <div className=" max-w-screen-xl mx-auto grid grid-cols-1 p-5 md:grid-cols-2 mt-60 p-10">
             <div className="">
                 <h1 className="font-bebas text-8xl text-stone-950">Hai!,My Name Is Andi, people who like visuals</h1>
                 <hr className="my-6 sm:mx-auto border-stone-700 lg:my-8 mt-20" /><div></div>
