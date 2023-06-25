@@ -1,5 +1,3 @@
-import HR from "../Components Abstract/GarisHorizontal";
-
 const PerkenalanPanjang = () => {
     return (
         <div className="container mx-auto mt-40 max-w-screen-xl grid grid-cols-1 md:grid-cols-3 " >
