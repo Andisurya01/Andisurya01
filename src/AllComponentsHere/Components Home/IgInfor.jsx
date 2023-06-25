@@ -22,11 +22,11 @@ const Postingan = () => {
                         <a href='https://www.instagram.com/informatika_untirta/' className="pl-2">instagram</a>
                     </div>
                 </div>
-                <div className=" text-lg mx-auto">
+                <div className=" text-md mx-auto">
                     Starting from determining what content to create, looking for references, and up to content creation using available tools,
                     all were created to produce useful and interesting content for student citizens, especially Unitrta Informatics.
                 </div>
-                <div className="text_lg mx-auto">
+                <div className="text_md md:mx-auto">
                     Tools used :
                     <ul className="list-none">
                         <li>
@@ -40,7 +40,7 @@ const Postingan = () => {
             </div>
             <div className='m-5 h-96  bg-cover rounded-2xl overflow-auto max-w-screen-xl mx-auto' >
                 <div className='w-full h-full rounded-2xl justify-center scrollba overflow-y-scroll'>
-                    <img className='mx-auto content-center' src='./src/assets/Postinganig.png' />
+                    <img className='mx-auto content-center' src='/src/assets/Postinganig.png' />
                 </div>
             </div>
             <div>
