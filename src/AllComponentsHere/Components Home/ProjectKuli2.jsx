@@ -1,6 +1,6 @@
 const ProjectKuli2 = () => {
     return (
-            <div className="max-w-screen-xl pt-10 rounded-2xl bg-bgresto bg-center mx-auto h-96 overflow-auto">
+            <div className="max-w-screen-xl mt-10 rounded-2xl bg-bgresto bg-center mx-auto h-96 overflow-auto">
                 <div className="container p-16 text-neutral-200">
                     <p className="text-sm mb-5">Tugas Kuliah Semester 2</p>
                     <h1 className="font-bebas text-4xl">Aplikasi Crud, <a className="">Menu Restaurant</a></h1>
