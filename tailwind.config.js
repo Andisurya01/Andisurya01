@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,jsx}", "./dist/**/*.{html,jsx}",],
+  content: ["./src/**/*.{html,jsx}", "./dist/**/*.{html,jsx}","./node_modules/flowbite/**/*.js"],
   darkMode : 'class',
   theme: {
     extend: {
@@ -14,11 +14,10 @@ module.exports = {
       },
       animation: {
         puter: 'spin 3s liner once',
-      }
+      },
     },
   },
   plugins: [
     require('flowbite/plugin')
-  ],
+  ], 
 }
-
