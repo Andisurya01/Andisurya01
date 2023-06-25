@@ -3,22 +3,25 @@ const PerkenalanPanjang = () => {
     return(
         <div className="container mx-auto mt-40 max-w-screen-xl grid grid-cols-1 md:grid-cols-3 " >
             <div className="mx-auto">
-                <img className="border-none w-80 " src="https://i.pinimg.com/736x/73/4a/9c/734a9cb47c5e91bc3ce6d25a76cee54b.jpg"/>
+                <img className="border-none w-80 " src="https://placeholder.com/300x500"/>
             </div>
             <div className="mx-auto " >
-                <h1 className="font-bebas text-xl ">Tentang Andi</h1>
+                <h1 className="font-bebas text-xl ">About Andi</h1>
                 <ul>
                     <li className="font-montserrat ">
-                            Halo, nama gua Andi Surya Priyadi, pertanggal 6/11/2023 ini gua masih berstatus mahasiswa informatika Universitas Sultan Ageng Tirtayasa.
-                        banyak hal yang gua pelajari di jurusan ini, tapi dari semester awal lebih ditekankan terhadapa pembuatan web, gua diajarkan html, css, dan juga php,
-                        ada framework css juga yang pernah diajarkan oleh dosen yaitu boostrap, namun gua merasa materi yang disuguhkan kurang mumpuni untuk membekali 
-                        gua untuk terjun ke dunia kerja, jadi gua memutuskan untuk belajar javascript dan frameworknya yaitu react secara otodidak.
+                        Hello, my name is Andi Surya Priyadi, as of 6/11/2023 I am still an informatics student at Sultan
+                        Ageng Tirtayasa University. there are many things that I learned in this department,
+                        but from the initial semester more emphasis was placed on web creation, I was taught html,
+                        css, and also php, there was also a css framework that had been taught by lecturers, namely boostrap,
+                        but I felt that the material presented was not qualified to equip me to enter the world of work,
+                        so I decided to learn javascript and its framework, react, by myself.
                     </li>
                     <br/>
                     <li>
-                            Gua mulai menekuni Front end mulai dari beberapa bulan lalu, karena basic html dan css sudah pernah dipelajari jadi sedikit memudahkan gua
-                        untuk belajar Front end, di project-project sebelumnya hampir semua bagian pernah gua dapatkan, seperti front endnya menggunakan boostrap, back endnya menggunakan
-                        sql dan php, mungkin untuk sekarang 
+                        I started pursuing Front end starting from a few months ago,
+                        because basic html and css have been learned so it makes it a little easier for me to
+                        learn Front end. to learn Front end, in previous projects almost all parts have been obtained,
+                        such as the front end using boostrap, the back end using sql and php. sql and php, maybe for now
                     </li>
                 </ul>
             </div>
