@@ -6,7 +6,7 @@ const ProjectKuli1 = () => {
                 <h1 className="font-bebas text-4xl">Aplikasi Crud, <a className="text-stone-800">Bank Indoesia</a><br/>*not a real Bank Indoesia</h1>
                 <p className="text-sm mt-5">Mengaplikasikan CRUD menggunakan php, </p>
 
-                <button className="bg-neutral-800 hover:bg-stone-400 hover:text-stone-950 duration-200 text-sm rounded-md mt-10 h-10 w-52">VIEW CASE STUDY</button>
+                <button className="bg-neutral-800 hover:bg-stone-400 hover:text-stone-950 duration-200 text-sm rounded-md mt-10 h-10 w-52"><a href="https://github.com/Andisurya01/Project-Bank-Indonesia">VIEW CASE STUDY</a></button>
             </div>
             
         </div>
