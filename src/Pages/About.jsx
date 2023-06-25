@@ -3,7 +3,6 @@ import Navbar from "../AllComponentsHere/Components Home/navbar";
 import Footerandi from "../AllComponentsHere/Components Home/Footerandi";
 import PerkenalanSingkat from "../AllComponentsHere/Components About/PerkenalanSingkat"
 import PerkenalanPanjang from "../AllComponentsHere/Components About/PerkenalanPanjang";
-import Playlist from "../AllComponentsHere/Components About/PLaylist";
 import HR from "../AllComponentsHere/Components Abstract/GarisHorizontal";
 
 const About = () => {
