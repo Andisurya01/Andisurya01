@@ -40,7 +40,7 @@ const Postingan = () => {
             </div>
             <div className='m-5 h-96  bg-cover rounded-2xl overflow-auto max-w-screen-xl mx-auto' >
                 <div className='w-full h-full rounded-2xl justify-center scrollba overflow-y-scroll'>
-                    <img className='mx-auto content-center' src='src/assets/Postinganig.png' />
+                    <img className='mx-auto content-center' src='/assets/Postinganig.png' />
                 </div>
             </div>
             <div>
