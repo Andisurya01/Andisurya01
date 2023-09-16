@@ -4,7 +4,7 @@ import 'aos/dist/aos.css';
 const Postingan = () => {
     return (
         <div>
-            <div className="container max-w-screen-xl mx-auto grid grid-cols-1 gap-4 md:grid-cols-4">
+            <div className="container max-w-screen-xl mx-auto grid grid-cols-1 gap-4 md:grid-cols-4 px-10">
                 <div className="md:col-span-2">
                     <p className="text-5xl font-bebas text-gray-900 dark:text-white">INSTAGRAM DEPARTMENT OF INFORMATICS SULTAN AGENG TIRTAYASA<br /></p>
                     <div className="mt-5 flex flex-row">

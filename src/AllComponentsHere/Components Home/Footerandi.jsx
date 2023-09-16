@@ -5,7 +5,7 @@ const Footerandi = () => {
             <div className="mx-auto w-full  p-4 py-6 lg:py-8">
                 <div className="md:flex md:max-w-screen-xl mx-auto md:justify-between">
                     <div className="mb-6 md:mb-0">
-                        <a href="https://flowbite.com/" className="flex items-center">
+                        <a href="#" className="flex items-center">
                             <span className="self-center text-2xl font-bebas whitespace-nowrap text-stone-100">Andi Surya Priyadi</span>
                         </a>
                     </div>
@@ -27,8 +27,14 @@ const Footerandi = () => {
                                 <li className="mb-4">
                                     <a href="https://github.com/themesberg/flowbite" className="hover:underline ">Github</a>
                                 </li>
+                                <li className="mb-4">
+                                    <a href="https://discord.gg/zrTwTVRD" className="hover:underline">Discord</a>
+                                </li>
+                                <li className="mb-4">
+                                    <a href="https://www.linkedin.com/in/andisurya1/" className="hover:underline ">Github</a>
+                                </li>
                                 <li>
-                                    <a href="https://discord.gg/4eeurUVvTy" className="hover:underline">Discord</a>
+                                    <a href="https://www.instagram.com/andiiiii.sp/" className="hover:underline">Instagram</a>
                                 </li>
                             </ul>
                         </div>
